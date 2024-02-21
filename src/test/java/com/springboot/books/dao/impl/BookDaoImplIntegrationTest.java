@@ -1,4 +1,3 @@
-/*
 package com.springboot.books.dao.impl;
 
 import com.springboot.books.domain.Author;
@@ -164,4 +163,3 @@ public class BookDaoImplIntegrationTest {
 
     }
 }
-*/
