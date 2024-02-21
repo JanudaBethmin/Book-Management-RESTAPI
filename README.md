@@ -1,1 +1,1 @@
-# Book-Management-RESTAPI-JDBC
+# Book-Management-RESTAPI-JPA
